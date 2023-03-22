@@ -1,4 +1,4 @@
-* Task 1.1 Getting Started with Python
+ Task 1.1 Getting Started with Python
 
 * Install Python 3.8.7
 * Set up new virtual enviorment and name it cf-python-base
